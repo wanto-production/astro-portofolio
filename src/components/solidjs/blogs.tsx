@@ -20,12 +20,15 @@ export default function BlogComponent(props: Props) {
     const keyword = search().toLowerCase().trim();
     const tag = selectedTag();
 
-    return props.blogs.filter(blog => {
-      const titleMatch = blog.data.title.toLowerCase().includes(keyword);
-      const tagMatch = !tag || blog.data.tags?.includes(tag);
-      return titleMatch && tagMatch;
-    });
+    return [...props.blogs] // clone dulu biar bisa sort
+      .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+      .filter(blog => {
+        const titleMatch = blog.data.title.toLowerCase().includes(keyword);
+        const tagMatch = !tag || blog.data.tags?.includes(tag);
+        return titleMatch && tagMatch;
+      });
   });
+
 
   return (
     <div class="max-w-6xl mx-auto">
