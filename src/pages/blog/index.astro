@@ -1,0 +1,19 @@
+---
+import Layout from "@/layouts/Layout.astro"
+import { getCollection } from "astro:content"
+import BlogComponent from "@/components/solidjs/blogs.tsx"
+
+const blogs = await getCollection("blog")
+---
+
+<Layout
+  title="blogs"
+  description="Read blogs by Ikhwan Satria on programming, anime, and dev tools like NeoVim, Nuxt, and more."
+  keywords={["blog of ikhwan satrio", "ikhwan satrio blog", "main blog ikhwan satrio"]}
+>
+  <main class="min-h-screen bg-nishimiya-light text-nishimiya-dark py-16 px-4 sm:px-6 lg:px-8">
+    <BlogComponent client:only="solid" blogs={blogs} />
+  </main>
+</Layout>
+
+

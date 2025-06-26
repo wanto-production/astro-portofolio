@@ -1,0 +1,14 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import ProjectList from "@/components/solidjs/ProjectList.tsx";
+
+const title = "Projects | Ikhwan Satrio";
+const description = "My project showcase including portfolio, bots, and experiments.";
+const keywords = ["projects", "ikhwan satrio", "telegram bot", "portfolio", "fullstack"];
+---
+
+<Layout title={title} description={description} keywords={keywords}>
+  <main class="w-full">
+    <ProjectList client:load/>
+  </main>
+</Layout>
