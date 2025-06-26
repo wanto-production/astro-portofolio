@@ -9,7 +9,7 @@ const projects = [
     stack: ['Next', 'Shadcn', 'TailwindCSS'],
     link: 'https://portfolio-ikhwans.vercel.app/',
     repo: 'https://github.com/wanto-production/portofolio',
-    image: '/src/assets/static/portofolio1.png',
+    image: '/static/portofolio1.png',
   },
   {
     title: 'tiktok video downloader',
@@ -17,7 +17,7 @@ const projects = [
     stack: ['Next', 'WebHook'],
     link: 'https://t.me/TiktokConverterRobot',
     repo: 'https://github.com/wanto-production/next_webhook',
-    image: '/src/assets/static/bot_tele.png',
+    image: '/static/bot_tele.png',
   },
 ];
 

@@ -7,7 +7,7 @@ export default function MotionImage() {
       animate={{ opacity: 100, y: 0 }}
       transition={{ easing: 'ease-out' }}
       hover={{ scale: 1.02 }}
-      src="/src/assets/static/nishimiya.png"
+      src="/static/nishimiya.png"
       class="rounded-2xl shadow-2xl w-full h-[350px] object-cover object-center"
     />
   );
