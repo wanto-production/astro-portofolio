@@ -10,10 +10,11 @@ import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://portofolio-ikhwan.vercel.app/",
   vite: {
     plugins: [tailwindcss()]
   },
 
-  integrations: [solidJs({ exclude: "./src/components/solidjs/routes/*" }), sitemap()],
+  integrations: [solidJs(), sitemap()],
   adapter: vercel()
 });
