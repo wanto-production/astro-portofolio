@@ -2,13 +2,13 @@
 title: "Why I Stopped Distro Hopping and Chose EndeavourOS"
 date: "2025-06-29"
 description: "My journey through countless Linux distros until I found peace with EndeavourOS."
-tags: [Linux, Journey, Tech]
+tags: [Linux, DistroHopping, EndeavourOS, RollingRelease]
 thumbnail: "/blog/endeavouros.png"
 ---
 
 I used to distro hop. A lot.
 
-From Ubuntu to Fedora, Arch, Garuda, CachyOS, and more — I was constantly chasing the “perfect distro”. Sometimes it was for performance, sometimes for aesthetics, but most of the time, I didn’t even know what I was looking for.
+From Ubuntu to Fedora, Debian,Kde neon, and more — I was constantly chasing the “perfect distro”. Sometimes it was for performance, sometimes for aesthetics, but most of the time, I didn’t even know what I was looking for.
 
 Until I realized the one thing that actually mattered to me:  
 **rolling release**.
@@ -29,9 +29,18 @@ After testing so many distros, I found that EndeavourOS gave me everything I wan
 - Minimal bloat — I can uninstall what I don't need
 - Access to **pacman**, **yay**, and the full power of the **AUR**
 - KDE Plasma runs smooth, fast, and beautiful
-- Great community and documentation
+- Great documentation and setup experience
 
-In short, it's Arch — without the pain of manually setting everything up.
+Yes, I know.  
+The **Arch community** is _notoriously known_ for being… let's say, “elitist” or even **toxic** at times.
+
+But honestly?
+
+> I don’t care.
+
+I don’t go to forums asking “how to install Chrome” without reading the wiki first — and I don’t need hand-holding. I came for the system, not the community.
+
+And **EndeavourOS has its own friendly community anyway**, so I get the best of both worlds.
 
 ### 🧘‍♂️ The End of Distro Hopping?
 
@@ -41,4 +50,4 @@ EndeavourOS gives me stability _and_ modern features. I can update daily, custom
 
 ---
 
-_If you're tired of hopping from distro to distro and just want something that works — with rolling release power — give EndeavourOS a try. It might just become your last hop._
+_If you're tired of hopping from distro to distro and just want something that works — with rolling release power — give EndeavourOS a try. Toxic community? Maybe. But rock-solid system? Absolutely._
