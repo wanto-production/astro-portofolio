@@ -12,12 +12,3 @@
   scroll-behaviour: smooth;
   @apply capitalize;
 }
-
-/* Efek blur-up */
-.blur-up {
-  filter: blur(16px);
-  transition: all 0.5s;
-}
-.blur-up.lazyloaded {
-  filter: blur(0);
-}

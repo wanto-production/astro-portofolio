@@ -8,10 +8,13 @@ export default function Nav() {
   return (
     <nav class="fixed top-0 w-full z-50 bg-nishimiya-light text-nishimiya-dark shadow-md">
       <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        {/* Logo */}
-        <a href="/" class="text-xl font-bold text-nishimiya-pink">
-          Ikhwan Satrio
-        </a>
+        <div class=" flex items-center gap-2">
+          <img src="/favicon.png" alt="logo" class=" w-[40px] h-auto rounded-full" />
+          {/* Logo */}
+          <a href="/" class="text-xl font-bold text-nishimiya-pink">
+            Ikhwan Satrio
+          </a>
+        </div>
 
         {/* Desktop Menu */}
         <ul class="hidden md:flex space-x-6 font-medium">
