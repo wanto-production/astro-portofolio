@@ -69,6 +69,7 @@ export function SkillsSection() {
               <li>SvelteKit</li>
               <li>Nuxt</li>
               <li>AdonisJS</li>
+              <li>AstroJS</li>
             </ul>
           </Motion.div>
 
@@ -79,7 +80,7 @@ export function SkillsSection() {
             </h3>
             <div class="grid grid-cols-2 gap-4">
               <SkillStat label="Push-Ups" value="30" />
-              <SkillStat label="Pull-Ups" value="12" />
+              <SkillStat label="Pull-Ups" value="15" />
               <SkillStat label="Sit-Ups" value="20+" />
               <SkillStat label="Level" value="Lv. 2" />
             </div>
