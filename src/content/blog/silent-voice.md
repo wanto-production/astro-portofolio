@@ -4,6 +4,7 @@
  description: "anime peak with char dev"
  tags: [Anime,Emotional]
  thumbnail: "/blog/silent-voice.jpg"
+ lang: "en"
 ---
 
 The first time I watched **A Silent Voice (Koe no Katachi)**, I thought it would just be another typical high school drama. But it turned out to be much deeper than I expected. It's a touching story of regret, forgiveness, and how people can truly change for the better.

@@ -3,6 +3,7 @@ title: "Weathering With You Is Emotionally Brilliant"
 date: "2025-04-14"
 description: "A romantic, rainy tale connected to Suzume in Shinkai’s universe."
 tags: [Anime]
+lang: "en"
 ---
 
 > _“I want you more than any blue sky.”_  

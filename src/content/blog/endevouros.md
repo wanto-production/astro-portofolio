@@ -4,6 +4,7 @@ date: "2025-06-29"
 description: "My journey through countless Linux distros until I found peace with EndeavourOS."
 tags: [Linux, DistroHopping, EndeavourOS, RollingRelease]
 thumbnail: "/blog/endeavouros.png"
+lang: "en"
 ---
 
 I used to distro hop. A lot.

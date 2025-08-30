@@ -4,6 +4,7 @@ date: "2025-04-12"
 description: "My journey with Neovim"
 tags: [Journey, Tech]
 thumbnail: "/blog/nvim.png"
+lang: "en"
 ---
 
 I love Neovim.

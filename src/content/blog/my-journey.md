@@ -4,6 +4,7 @@ description: "From a dusty laptop and colorful blocks to mastering Nuxt, SvelteK
 date: "2025-6-23"
 thumbnail: /blog/coding.jpg
 tags: [Journey, DevLife, Scratch, Tech]
+lang: "en"
 ---
 
 My journey began with an old, slow laptop...

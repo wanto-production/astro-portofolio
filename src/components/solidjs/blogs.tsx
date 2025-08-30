@@ -90,6 +90,9 @@ export default function BlogComponent(props: Props) {
                       <p class="text-xs text-gray-500">
                         {new Date(blog.data.date).toDateString()}
                       </p>
+                      <p class="text-xs text-blue-500">
+                        lang: {blog.data.lang}
+                      </p>
                       <p class="text-sm mt-2 text-nishimiya-dark/80 line-clamp-3">
                         {blog.data.description}
                       </p>

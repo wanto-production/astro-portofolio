@@ -3,6 +3,7 @@ title: "Why Suzume Is a Mindblowing Anime"
 date: "2025-04-14"
 description: "A powerful tale of healing, doors, and disaster in Shinkai’s shared universe."
 tags: [Anime]
+lang: "en"
 ---
 
 > _“It’s not the door that’s the problem… It’s what lies beyond.”_  

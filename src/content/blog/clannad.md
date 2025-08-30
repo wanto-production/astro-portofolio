@@ -3,6 +3,7 @@ title: "Clannad: The Anime That Made Me Cry Five Times"
 description: "A deeply personal reflection on how Clannad broke me emotionally — again and again."
 date: "2025-06-22"
 tags: [Anime, Emotional, SliceOfLife]
+lang: "en"
 ---
 
 Clannad isn’t just an anime — it’s an emotional experience.

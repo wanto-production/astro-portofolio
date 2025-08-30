@@ -4,6 +4,7 @@ date: "2025-04-12"
 description: "A mindbending love story across time and memory, worth every rewatch."
 tags: [Anime]
 thumbnail: "/blog/kimi-no-nawa.jpg"
+lang: "en"
 ---
 
 > _“I wanted to tell you... wherever you may be, that I always loved you.”_  
