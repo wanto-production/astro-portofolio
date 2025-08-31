@@ -12,6 +12,7 @@
     "@astrojs/sitemap": "3.5.0",
     "@astrojs/solid-js": "^5.1.0",
     "@astrojs/vercel": "8.2.6",
+    "@fortawesome/fontawesome-free": "^7.0.0",
     "@nanostores/solid": "^1.0.0",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.10",
